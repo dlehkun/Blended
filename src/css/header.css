@@ -42,3 +42,7 @@
 .nav-link.active::after {
   background: #747bff;
 }
+
+.btn-send {
+  background-color: #747bff;
+}
